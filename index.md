@@ -8,8 +8,8 @@ So far, I've familiarized myself with a few languages and tools, such as
 - **need to learn**: CSS, SQL, PHP, HTML and more
 
 I've heard that we will use a lot of CSS this quarter. 
-I hope it won't be like this:
-![meme1](./meme1.jfif)
+I hope it won't be like this:  
+![meme1](./meme1.jfif)  
 If I need to name my *top 3* favorite languages, they are:
 1. C++
 2. Java
