@@ -8,8 +8,8 @@ So far, I've familiarized myself with a few languages and tools, such as
 - **need to learn**: CSS, SQL, PHP, HTML and more
 
 Programming can be exciting. This is the night for me when I got stuck on a bug.  
-![meme3](./meme3.jfif)
-![meme4](./meme4.jfif)  
+![meme3](./3.jfif)
+![meme4](./4.jfif)  
 
 I've heard that we will use a lot of CSS this quarter. 
 I hope it won't be like this:  
