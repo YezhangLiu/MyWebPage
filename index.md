@@ -7,10 +7,21 @@ So far, I've familiarized myself with a few languages and tools, such as
 - tools: matlab, github, rstudio, VSCode, etc
 - **need to learn**: CSS, SQL, PHP, HTML and more
 
+Programming can be exciting. This is the night for me when I got stuck on a bug.  
+![meme3](./meme3.jfif)
+![meme4](./meme4.jfif)  
+
 I've heard that we will use a lot of CSS this quarter. 
 I hope it won't be like this:  
 ![meme2](./meme2.jfif) ![meme1](./meme1.jfif)   
-If I need to name my *top 3* favorite languages, they are:
+If I need to name my ***top 3*** favorite languages, they are:
 1. C++
 2. Java
-3. Python
+3. Python  
+
+The list below is the progress of my New Year's Resolution:
+- [x] keep my weight the same
+- [ ] find an internship
+- [ ] fall in love with a cute girl
+- [x] solve and understand at least 50 problems on Leetcode per month  
+
