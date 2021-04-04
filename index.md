@@ -9,7 +9,7 @@ So far, I've familiarized myself with a few languages and tools, such as
 
 I've heard that we will use a lot of CSS this quarter. 
 I hope it won't be like this:  
-![meme2](./meme2.jfif)  
+![meme2](./meme2.jfif) ![meme1](./meme1.jfif)   
 If I need to name my *top 3* favorite languages, they are:
 1. C++
 2. Java
