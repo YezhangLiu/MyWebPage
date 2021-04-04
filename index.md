@@ -1,4 +1,4 @@
-## Welcome to My Web Pages!
+## Welcome to My Web Page
 
 Hello everyone! I'm Yezhang Liu, a UCSD junior student who is trying to become a computer engineer. 
 
