@@ -1,8 +1,8 @@
 ## Welcome to My Web Page
 
 Hello everyone! I'm Yezhang Liu, a UCSD junior student who is trying to <br />
-become a computer engineer. First of all, this simple page is a practice <br />
-made using [Github](https://github.com/) flavored Markdown. I kinda love this tool. It is simpler <br />
+become a computer engineer. First of all, this simple page is made for practice <br />
+using [Github](https://github.com/) flavored Markdown. I kinda love this tool. It is simpler <br />
 and more straight forward than HTML.
 
 So far, I've familiarized myself with a few languages and tools, such as 
