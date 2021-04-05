@@ -25,10 +25,8 @@ The list below is the progress of my New Year's Resolution:
 - [ ] fall in love with a cute girl
 - [x] solve and understand at least 50 problems on Leetcode per month  
 
-I like to watch fun videos at my leisure. Although Youtube is a great video web page already,
-
-I prefer [Bilibili](https://www.bilibili.com/) more. On this video website, you can inteact with 
-
+I like to watch fun videos at my leisure. Although Youtube is a great<br /> video web page already, 
+I prefer [Bilibili](https://www.bilibili.com/) more. On this video website, <br />you can inteact with 
 others via in-video comment while watching, and I really enjoy that.
 
 [Back to top](#welcome-to-my-web-page)
