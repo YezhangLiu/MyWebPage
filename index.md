@@ -36,6 +36,6 @@ The list below is the progress of my New Year's Resolution:
 
 I like to watch fun videos at my leisure. I know [Youtube](https://www.youtube.com/) is very popular,<br />
 but I prefer [Bilibili](https://www.bilibili.com/) as my main fun video website. On Bilibili, you can <br />inteact with 
-others via in-video comment while watching, and <br />I really enjoy that.
+others via in-video comment while watching, and I really<br /> enjoy that.
 
 [Back to top](#welcome-to-my-web-page)
