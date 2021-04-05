@@ -10,10 +10,10 @@ So far, I've familiarized myself with a few languages and tools, such as
 - tools: matlab, github, rstudio, VSCode, etc
 - **need to learn**: CSS, SQL, PHP, HTML and more
 
-I love many great quotes, but the one below may be my favorite. 
+I love inspirational talks, and the one below is my favorite. 
 > Don’t let what you cannot do interfere with what you can do. – John Wooden
 
-This quote sometimes can inspire me when debugging. Then, coding for me <br />
+This quote sometimes inspires me when debugging. Then, coding for me <br />
 becomes exciting. This is usually the night for me when I got stuck on a bug.  
 ![meme3](./3.jfif)
 ![meme4](./4.jfif)  
