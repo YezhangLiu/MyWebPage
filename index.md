@@ -35,7 +35,7 @@ The list below is the progress of my New Year's Resolution:
 - [x] solve and understand at least 50 problems on Leetcode per month  
 
 I like to watch fun videos at my leisure. I know [Youtube](https://www.youtube.com/) is very popular,<br />
-but I prefer [Bilibili](https://www.bilibili.com/) as my main fun video website. On Bilibili, <br />you can inteact with 
-others via in-video comment while watching, and I really enjoy that.
+but I prefer [Bilibili](https://www.bilibili.com/) as my main fun video website. On Bilibili, you can <br />inteact with 
+others via in-video comment while watching, and <br />I really enjoy that.
 
 [Back to top](#welcome-to-my-web-page)
